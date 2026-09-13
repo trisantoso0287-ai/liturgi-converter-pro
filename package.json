@@ -10,8 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lucide-react": "^1.16.0",
-    "mammoth": "^1.12.0",
+    "firebase": "^12.19.0",
+    "lucide-react": "^1.45.0",
+    "mammoth": "^1.12.3",
     "pptxgenjs": "^4.0.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
